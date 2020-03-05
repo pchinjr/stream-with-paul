@@ -29,7 +29,7 @@ exports.handler = async function Index () {
     photographer: 'Ivana Cajina',
     service: 'Unsplash',
     credit: 'https://unsplash.com/@von_co',
-    image: staticAssetsHelper('background.jpg')
+    image: 'https://imgur.com/gallery/FPR92li'
     // or link to an external image URL such as ↓
     // image: 'https://images.unsplash.com/photo-1506535772317-9fdb71c959c6'
   })
